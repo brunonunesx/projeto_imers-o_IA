@@ -1,7 +1,8 @@
 # projeto_imers-o_IA
 
 "Este projeto foi desenvolvido para o desafio da Imersão IA e tem como objetivo realizar previsões a partir de um banco de dados, utilizando o Gemini, para auxiliar na tomada de decisões de uma empresa."
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Missão: Desvendar os Segredos do Score de Crédito!
+
+Missão: Desvendar os Segredos do Score de Crédito!
 Fui contratado por um banco para uma missão super importante: desvendar os segredos do score de crédito dos clientes! ️‍♂️
 
 Imagine um supermodelo de inteligência artificial capaz de ler as informações de cada cliente e, em um piscar de olhos, dizer se o score dele é "Ruim" ou "Ok".
