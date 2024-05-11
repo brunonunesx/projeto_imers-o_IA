@@ -29,4 +29,9 @@ Substituição: Verificar o melhor modelo -> Avaliar desempenho do modelo
 
 Etapa 7: Análise de Importância das Variáveis
 Substituição: Verificar quais as características mais importantes para definir o score do cliente -> Analisar importância das variáveis
-Observações:
+
+O projeto demonstrou como usar a análise de dados para prever o score dos clientes com alta precisão, identificar os fatores que influenciam o score e, assim, auxiliar na tomada de decisões estratégicas para melhorar os resultados da empresa. A metodologia pode ser aplicada em diversas áreas para gerar insights e soluções eficazes.
+
+
+o que é acarácia
+Para entender o código, é fundamental compreender o conceito de Acurácia. Essa métrica serve para avaliar a qualidade de um modelo, comparando-o com outros. Em termos simples, a Acurácia mede o quão bem o modelo classifica as informações, indicando a porcentagem de acertos.
